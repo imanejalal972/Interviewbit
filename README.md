@@ -4,6 +4,7 @@
 | Programming | Title | Difficulty | Solution | Asked In |
 |-------------|-------|------------|----------|----------|
 |[Greedy Algorithm](./algorithms/GreedyAlgorithm/GasStation/GasStation.docx)|[Gas Station](https://www.interviewbit.com/problems/gas-station/)|Medium|[C++](./algorithms/GreedyAlgorithm/GasStation/GasStation.cpp)|BLOOMBERG, GOOGLE, DE SHAW, FLIPKART|
+|[Greedy Algorithm](./algorithms/GreedyAlgorithm/MajorityElement/MajorityElement.docx)|[Majority Element](https://www.interviewbit.com/problems/majority-element/)|Easy|[C++](./algorithms/GreedyAlgorithm/MajorityElement/MajorityElement.cpp)|MICROSOFT, YAHOO, GOOGLE, AMAZON|
  
  
  
